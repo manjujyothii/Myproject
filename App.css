@@ -1,0 +1,23 @@
+.recipe-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+}
+
+.recipe-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+input, textarea {
+  margin: 5px;
+  padding: 8px;
+  width: 100%;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
